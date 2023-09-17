@@ -1,14 +1,14 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>All Posts - Músicas do Julian</title>
-        <link>https://musicasdojulian.github.io/posts/</link>
+        <link>https://juliantp.github.io/musicasdojulian.github.io/posts/</link>
         <description>All Posts | Músicas do Julian</description>
-        <generator>Hugo -- gohugo.io</generator><language>pt-br</language><lastBuildDate>Sun, 17 Sep 2023 13:27:17 -0300</lastBuildDate><atom:link href="https://musicasdojulian.github.io/posts/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 17 Sep 2023 13:27:17 -0300</lastBuildDate><atom:link href="https://juliantp.github.io/musicasdojulian.github.io/posts/" rel="self" type="application/rss+xml" /><item>
     <title>Consciência</title>
-    <link>https://musicasdojulian.github.io/posts/mypost/</link>
+    <link>https://juliantp.github.io/musicasdojulian.github.io/posts/mypost/</link>
     <pubDate>Sun, 17 Sep 2023 13:27:17 -0300</pubDate>
     <author>Author</author>
-    <guid>https://musicasdojulian.github.io/posts/mypost/</guid>
+    <guid>https://juliantp.github.io/musicasdojulian.github.io/posts/mypost/</guid>
     <description><![CDATA[Tom: C C Todo bem que a gente faz Am Por menor que seja Dm É uma pedrinha a mais G G7 Na edificação da paz C Todo amor que sai Am Do coração e Dm Alcança o irmão G G7 É mais uma luz na escuridão C Nós já temos consciência Am Que o bem é nossa essência Dm E o amor é melhor escudo G Pras armadilhas desse mundo C Se abandonarmos as espadas Am Mais leve será a jornada Dm Em O que estamos esperando?]]></description>
 </item>
 </channel>
